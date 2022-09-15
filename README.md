@@ -15,6 +15,7 @@ Versions can be found on release notes:
       -h, --help     show this help message and exit
       --dlv [DLV]    download version
       -v, --version  show program's version number and exit
-
+## Requirements
+Import modules from requirements.txt before running scripts.  
 ## Example  
     python3 main.py --dlv 17.1.4-51567
